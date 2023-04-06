@@ -1,0 +1,19 @@
+Z30_MATERIAL	folio_name
+BOOK	Knihy
+ISSUE	Seriály
+ISSBD	Vázané periodikum
+ANAL	Analytické jednotky
+MAPS	Kartografické dokumenty
+GRAPH	Grafika
+MUSIC	Hudebniny
+AUDIO	Zvukové dokumenty
+COMP	Elektronické zdroje
+MIXED	Smíšené dokumenty
+RARE	Staré tisky
+TDIM	Trojrozměrné objekty
+VIDEO	Obrazové dokumenty
+FILM	Filmy
+PATEN	Patenty
+NORM	Normy
+MICRO	Mikrodokumenty
+*	Není známo

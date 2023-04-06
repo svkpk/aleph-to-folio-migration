@@ -1,0 +1,430 @@
+{
+  "data": [
+    {
+      "folio_field": "barcode",
+      "legacy_field": "Z308_BARCODE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "customFields",
+      "legacy_field": "Z303_TITLE",
+      "value": "",
+      "description": "Person title"
+    },
+    {
+      "folio_field": "departments[0]",
+      "legacy_field": "",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "enrollmentDate",
+      "legacy_field": "Z305_REGISTRATION_DATE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "expirationDate",
+      "legacy_field": "Z305_EXPIRY_DATE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "externalSystemId",
+      "legacy_field": "Z303_REC_KEY",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "legacyIdentifier",
+      "legacy_field": "Z303_REC_KEY",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "patronGroup",
+      "legacy_field": "Z305_BOR_STATUS",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[0].addressLine1",
+      "legacy_field": "Z304_ADDRESS1",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[0].addressLine2",
+      "legacy_field": "Z304_ADDRESS2",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[0].addressTypeId",
+      "legacy_field": "Not mapped",
+      "value": "93d3d88d-499b-45d0-9bc7-ac73c3a19880",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[0].city",
+      "legacy_field": "Z304_ADDRESS3",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[0].countryId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[0].postalCode",
+      "legacy_field": "Z304_ZIP",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[0].primaryAddress",
+      "legacy_field": "Not mapped",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[0].region",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[1].addressLine1",
+      "legacy_field": "Z304_ADDRESS1_02",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[1].addressLine2",
+      "legacy_field": "Z304_ADDRESS2_02",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[1].addressTypeId",
+      "legacy_field": "Not mapped",
+      "value": "b6f4d1c6-0dfa-463c-9534-f49c4f0ae090",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[1].city",
+      "legacy_field": "Z304_ADDRESS3_02",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[1].countryId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[1].postalCode",
+      "legacy_field": "Z304_ZIP_02",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[1].primaryAddress",
+      "legacy_field": "Not mapped",
+      "value": false,
+      "description": ""
+    },
+    {
+      "folio_field": "personal.addresses[1].region",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.dateOfBirth",
+      "legacy_field": "Z303_BIRTH_DATE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.email",
+      "legacy_field": "Z304_EMAIL_ADDRESS",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.firstName",
+      "legacy_field": "Z303_FIRST_NAME",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.lastName",
+      "legacy_field": "Z303_LAST_NAME",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.middleName",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.mobilePhone",
+      "legacy_field": "Z304_SMS_NUMBER",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.phone",
+      "legacy_field": "Z304_TELEPHONE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.phone",
+      "legacy_field": "Z304_TELEPHONE_2",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.preferredContactTypeId",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "personal.preferredFirstName",
+      "legacy_field": "Not mapped",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "username",
+      "legacy_field": "Z303_REC_KEY",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].typeId",
+      "legacy_field": "",
+      "value": "3f4f4d4c-7aea-4c39-9073-dd84e6bfd257",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].domain",
+      "legacy_field": "Not mapped",
+      "value": "users",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].title",
+      "legacy_field": "Not mapped",
+      "value": "Poznámka ze Z303_FIELD_1",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].content",
+      "legacy_field": "Z303_FIELD_1",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].popUpOnCheckOut",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[0].popUpOnUser",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].typeId",
+      "legacy_field": "",
+      "value": "3f4f4d4c-7aea-4c39-9073-dd84e6bfd257",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].domain",
+      "legacy_field": "Not mapped",
+      "value": "users",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].title",
+      "legacy_field": "Not mapped",
+      "value": "Poznámka ze Z303_FIELD_2",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].content",
+      "legacy_field": "Z303_FIELD_2",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].popUpOnCheckOut",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[1].popUpOnUser",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[2].typeId",
+      "legacy_field": "",
+      "value": "3f4f4d4c-7aea-4c39-9073-dd84e6bfd257",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[2].domain",
+      "legacy_field": "Not mapped",
+      "value": "users",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[2].title",
+      "legacy_field": "Not mapped",
+      "value": "Poznámka ze Z303_FIELD_3",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[2].content",
+      "legacy_field": "Z303_FIELD_3",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[2].popUpOnCheckOut",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[2].popUpOnUser",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[3].typeId",
+      "legacy_field": "",
+      "value": "3f4f4d4c-7aea-4c39-9073-dd84e6bfd257",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[3].domain",
+      "legacy_field": "Not mapped",
+      "value": "users",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[3].title",
+      "legacy_field": "Not mapped",
+      "value": "Poznámka ze Z303_NOTE_1",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[3].content",
+      "legacy_field": "Z303_NOTE_1",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[3].popUpOnCheckOut",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[3].popUpOnUser",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[4].typeId",
+      "legacy_field": "",
+      "value": "3f4f4d4c-7aea-4c39-9073-dd84e6bfd257",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[4].domain",
+      "legacy_field": "Not mapped",
+      "value": "users",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[4].title",
+      "legacy_field": "Not mapped",
+      "value": "Poznámka ze Z303_NOTE_2",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[4].content",
+      "legacy_field": "Z303_NOTE_2",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[4].popUpOnCheckOut",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[4].popUpOnUser",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[5].typeId",
+      "legacy_field": "",
+      "value": "3f4f4d4c-7aea-4c39-9073-dd84e6bfd257",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[5].domain",
+      "legacy_field": "Not mapped",
+      "value": "users",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[5].title",
+      "legacy_field": "Not mapped",
+      "value": "Poznámka ze Z305_NOTE",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[5].content",
+      "legacy_field": "Z305_NOTE",
+      "value": "",
+      "description": ""
+    },
+    {
+      "folio_field": "notes[5].popUpOnCheckOut",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    },
+    {
+      "folio_field": "notes[5].popUpOnUser",
+      "legacy_field": "",
+      "value": true,
+      "description": ""
+    }
+  ]
+}

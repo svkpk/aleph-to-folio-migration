@@ -1,0 +1,64 @@
+Z31_TYPE	folio_name
+4002	kopie
+4032	kopie barevná
+4005	tištěná stránka
+4007	prodej zboží
+4008	publikace
+4009	rešerše
+4010	záloha na půjčení
+4011	finanční náhrada
+4013	náhradní průkaz (karta)
+4014	Složení kreditu
+4015	splátka dluhu
+4040	ověření uživatele
+4018	vyřízení zahraniční MVS
+4019	vyřízení kopií MVS
+4037	1. upomínka MVS
+4038	2. upomínka MVS
+4039	3. upomínka MVS
+4022	náhrada čárového kódu
+4024	knihovnické zpracování
+4027	vazba
+4028	poštovné MVS
+4041	poštovné za 2Up
+4029	poštovné za 3Up
+4033	digitalizace
+4034	kopie-náhrada
+4036	poštovné
+4042	Zásilkovna poštovné
+4043	Registrace telefonická
+4900	platba na účet
+4901	zpětná platba
+4001	kopie čítárna
+0000	Celkem
+0002	Objednávka výpůjčky
+0003	Pozdní vrácení
+0004	Výpůjčka (audio)
+0004	Výpůjčka (video)
+0004	Výpůjčka
+0005	Prodloužení
+0006	Fotokopie
+A4-6	Fotokopie A4
+0007	DLUH Z ALEPH 300
+0011	MVS - odchozí požadavek
+0015	MVS - odchozí - doručení dokumentu
+0016	MVS - příchozí - poplatek za vyřízení
+0017	Issuing Library Card
+0020	Poplatek za výzvu
+0021	Registrace čtenáře
+0021	Registrace čtenáře t.
+0022	Prodloužení čt. průkazu
+0022	Prodloužení čt. průkazu t.
+0025	Zrušení požadavku
+0040	Ztrata knihy - vyrizovani
+0041	Ztráta deštníku  - náhrada
+0042	Ztráta knihy - dopis
+0080	1. upomínka
+0081	2. upomínka
+0082	3. upomínka / předžalobní výzva
+0090	Zaslání upomínky
+1024	Oznameni o rezervaci
+1026	Oznameni o rezervaci
+1027	Oznameni o rezervaci
+1028	Oznameni o rezervaci
+9999	Placený obnos

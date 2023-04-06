@@ -1,0 +1,28 @@
+Z30_ITEM_STATUS	folio_name
+01	Absenčně
+02	Prezenčně
+03	Příručka
+04	Příručka služební
+06	Prezenčně s.
+07	Archivní mikrofilm
+08	Deštník
+09	Židle
+10	Anglická knihovna
+11	Německá knihovna
+12	Rakouská knihovna
+13	Slepecká knihovna
+20	Prohibita
+31	MVS absenčně
+32	MVS prezenčně
+43	Badatelna
+44	Badatelna příručka
+45	Konzervační fond
+51	Stěhování 01
+52	Stěhování 02
+53	Stěhování 03
+54	Stěhování 04
+61	Nedostupné 01
+62	Nedostupné 02
+63	Nedostupné 03
+64	Nedostupné 04
+*	Není známo

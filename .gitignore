@@ -1,0 +1,6 @@
+Pipfile.lock
+test.py
+
+iterations/run_001/results/*
+iterations/run_001/reports/*
+working_dir/*

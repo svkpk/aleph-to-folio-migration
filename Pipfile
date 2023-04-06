@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pymarc = "*"
+pyoai = "*"
+folio_migration_tools = "*"
+tzdata = "*"
+requests = "*"
+pyyaml = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

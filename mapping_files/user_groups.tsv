@@ -1,0 +1,15 @@
+Z305_BOR_STATUS	folio_group
+13	standardní čtenář
+14	student
+15	důchodce
+80	jednorázový vstup
+90	roční prezenční
+91	roční prez. zlev.
+40	MVS
+60	zaměstnanec bývalý
+61	zaměstnanec současný
+30	kolektiv
+99	interní středisko
+98	servisní středisko
+97	badatelna
+*	není známo
